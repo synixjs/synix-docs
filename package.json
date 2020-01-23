@@ -1,0 +1,25 @@
+{
+  "name": "synix-docs",
+  "version": "1.0.0",
+  "description": "Documentation of Synix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunalKatiyar/synix-docs.git"
+  },
+  "keywords": [
+    "docs",
+    "synix",
+    "cli",
+    "nodejs"
+  ],
+  "author": "Kunal Katiyar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KunalKatiyar/synix-docs/issues"
+  },
+  "homepage": "https://github.com/KunalKatiyar/synix-docs#readme"
+}
