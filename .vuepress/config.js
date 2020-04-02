@@ -3,7 +3,7 @@ module.exports = {
     serviceWorker: true,
     head: [
         ['link', { rel: 'short icon', type: 'image/png', href: 'assets/logo/sx_logo.png' }],
-        ['meta', { name: 'google-site-verification', content: 'C8GRU7GC0H_dGrH3kjSUSrQOqVQ2FkIOUY1Taclkqyk' }]
+        ['meta', { name: 'google-site-verification', content: 'm9GfZJM_yujiLa-Yt4xuIIpqhHPYRMupjFrMPTSUdyc' }]
     ],
     description: 'Documentation for Synix',
     themeConfig: {
