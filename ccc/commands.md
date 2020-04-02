@@ -4,7 +4,7 @@ sidebarDepth: 2
 ---
 
 ## init [text-editor]
-   Synix needs to be initialized before it's used. It also usses a default text-editor for opening files and folders
+   Synix needs to be initialized before it's used. It also uses a default text-editor for opening files and folders
 #### Text Editors supported:
 1) Visual Studio Code (`code`)[recomended]
 2) Sublime Text 3 (`subl`)
@@ -18,7 +18,7 @@ $ sx init code
 ```
 
 ## ls
-   Synix needs to be initialized before it's used. It also usses a default text-editor for opening files and folders
+   Lists the contents of the present working directory
 ### Text Editors supported:
 1) Visual Studio Code (`code`)[recomended]
 2) Sublime Text 3 (`subl`)
@@ -26,9 +26,7 @@ $ sx init code
 
 ### To initialize use `init` command:
 ``` bash
-$ sx init code
-# or sx init subl
-# or sx init atom
+$ sx ls
 ```
 
 ------
