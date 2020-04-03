@@ -19,6 +19,5 @@ module.exports = {
             { text: 'Contribute', link: '/ccc/contribute.html' },
         ],
         sidebar: 'auto',
-        logo: 'assets/logo/sx_logo.png',
     },
 }
