@@ -7,6 +7,19 @@ footer: Copyright © 2020-present | SynixJS
 
 <div style="margin: 2% 20%;">
 
+```bash
+
+# install synix globallt
+$ npm install -g synix
+
+# initialize synix
+$ sx init code
+
+# check initialisation
+$ sx version
+
+```
+
 ### Commands
 >Most of the main commands that we use daily like ls,touch,mkdir etc. are already added and on top of them we added some more cool commands that will make your life a little easier.   
 [Explore →](/ccc/commands.html)
@@ -25,7 +38,9 @@ footer: Copyright © 2020-present | SynixJS
 ---
 <br>
 
->Find us on [Github](https://github.com/synixjs)
+### Find us on [Github](https://github.com/synixjs)
+
+<br>
 
 </div>
 
