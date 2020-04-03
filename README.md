@@ -5,8 +5,6 @@ title: Synix
 footer: Copyright © 2020-present | SynixJS
 ---
 
-<div style="margin: 2% 20%;">
-
 ```bash
 
 # install synix globallt
@@ -42,5 +40,4 @@ $ sx version
 
 <br>
 
-</div>
 
