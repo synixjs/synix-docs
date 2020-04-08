@@ -72,3 +72,5 @@ $ npm unlink
 
 ```
 Once you get the `sxd` command everything else is same.
+
+>Linux users please don't allow `sudo` to run without password
